@@ -1,2 +1,11 @@
-# perfume-shop-python
-Python console application that simulates a perfume shop system with age validation, product selection and ticket generation using OOP.
+# Perfume Shop System (Python)
+
+This was my last project before starting my first year of university.
+
+## Features
+- Age verification
+- Product selection
+- Total calculation
+- Ticket printing
+
+Made with Python using classes and dictionaries.
